@@ -1,0 +1,1 @@
+# axios-nginx-config-adapter
